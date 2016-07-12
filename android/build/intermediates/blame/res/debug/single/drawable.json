@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Gohn\\Documents\\GitHub\\NiceBuyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_icon.png",
+        "source": "C:\\Users\\Gohn\\Documents\\GitHub\\NiceBuyDemo\\android\\src\\main\\res\\drawable\\launcher_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Gohn\\Documents\\GitHub\\NiceBuyDemo\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\share_via_barcode.png",
+        "source": "C:\\Users\\Gohn\\Documents\\GitHub\\NiceBuyDemo\\android\\src\\main\\res\\drawable\\share_via_barcode.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Gohn\\Documents\\GitHub\\NiceBuyDemo\\android\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "C:\\Users\\Gohn\\Documents\\GitHub\\NiceBuyDemo\\android\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gohn\\Documents\\GitHub\\NiceBuyDemo\\android\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "C:\\Users\\Gohn\\Documents\\GitHub\\NiceBuyDemo\\android\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gohn\\Documents\\GitHub\\NiceBuyDemo\\android\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "C:\\Users\\Gohn\\Documents\\GitHub\\NiceBuyDemo\\android\\src\\main\\res\\menu\\capture.xml"
+    }
+]
